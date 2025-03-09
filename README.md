@@ -2,7 +2,7 @@
 
 Цей проект представляє собою веб-сайт музею з функціональним інтерфейсом. Користувачі можуть отримувати актуальну інформацію про виставки, події та новини музею, а також спланувати свій візит.
 
-ДЕМО [UA-Museum](https://github.com/barbanihor/Museum-UA)
+ДЕМО [UA-Museum](https://barbanihor.github.io/Museum-UA/)
 
 МАКЕТ [MOCKUP](https://www.figma.com/design/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323-1957&p=f&t=GxRlsUrGfxl5taCd-0)
 
